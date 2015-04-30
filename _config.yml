@@ -1,4 +1,7 @@
+# Variables & Global
 
 name: Jane Doe 
+
+# Server Configs
 
 baseurl: /jekyll-theme
